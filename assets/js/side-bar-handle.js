@@ -10,3 +10,4 @@ const hamburgerMenu = document.querySelector('.hamburger-menu');
         sidebar.style.left = "-250px";
     }
 });
+
